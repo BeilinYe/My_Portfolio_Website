@@ -1,5 +1,5 @@
-# My_Portfolio_Website
-Beilin's AI and Machine Learning project portfolio
+# Beilin's AI and Machine Learning project portfolio
+
 
 
 # [Project 1: US Car Insurance Premium Setting](https://github.com/ExampleExample1)
