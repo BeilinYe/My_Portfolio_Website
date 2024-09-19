@@ -35,3 +35,4 @@
 * [This section to be developed]
 * List of datasets used in projects, including sources like Kaggle, UCI Machine Learning Repository, etc.
 * References to research papers and articles that informed project methodologies.
+* Machine Learning Mini Projects: Referring to this online BootCamp [Machine Learning A-Z: AI, Python & R + ChatGPT Prize 2024](https://www.udemy.com/course/machinelearning/learn/lecture/35617946#questions)
