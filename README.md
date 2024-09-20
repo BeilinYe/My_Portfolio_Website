@@ -12,10 +12,13 @@
 * [This section to be developed]
 * Developed a web application using Flask to demonstrate understanding of web frameworks and RESTful API design.
 
-## 2) Breakdown of Machine Learning Mini Projects by Model Type
+## 2) Machine Learning Mini Projects - Breakdown by Model Type
 
 ### Regression
-* Linear Regression
+* Simple Linear Regression
+* Multiple Linear Regression
+* Polynomial Regression
+* Support Vector Regression
 
 ### Classification
 * [This section to be developed]
@@ -23,9 +26,9 @@
 
 
 ## 3) Courses and Certificates
-* CFA II Completed.
-* Machine Learning related courses:
-* System Design related courses: 
+* Finance: CFA II achieved.
+* Machine Learning related courses: Optimization, Big Data Analytics, Algorithm Design and Analysis, Pattern Recognition, Computational Neuroscience
+* System Design related courses: Systems Theory & Models & Research & Design, System Design Graduate Workshop 1 for AI and Machine Learning
 
 ## 4) Contact
 * Email: beilinye.by@gmail.com  
