@@ -17,7 +17,7 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - Machine Learning models: Linear Regression, Decision Trees, Naive Bayes
 
 
-### [Project 2: AI-Powered SME Stock Prediction with LSTM, ESN, and Tree-Based Approaches](https://github.com/ExampleExample2)
+### [Project 2: AI-Powered SME Stock Prediction with LSTM, ESN, and Tree-Based Approaches](https://github.com/BeilinYe/DS_SME_Stock_Price_Prediction)
 **Project Motivation**  
 - Addresses the lack of effective tools for investors in small to medium-sized U.S. companies.
 - Leverages AI and machine learning to provide reliable stock market projections.
