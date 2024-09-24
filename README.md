@@ -36,7 +36,9 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 ## 2) Individual Projects
 
 
-## 3) Machine Learning Mini Projects - Breakdown by Model Type
+## 3) [Machine Learning Mini Projects - Breakdown by Model Type](https://github.com/BeilinYe/ML_mini_projects)
+
+[This project is ongoing.]
 
 ### Regression
 * Simple Linear Regression
