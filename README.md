@@ -1,6 +1,6 @@
 # Beilin's AI and Machine Learning Project Portfolio
 
-## 1) Group and Individual Projects
+## 1) Group Projects
 
 ### [Project 1: Machine Learning-Based Optimization of US Car Insurance Premiums](https://github.com/BeilinYe/DS_Car_Insurance_Premium_Setting)
 * Analyzed factors influencing car insurance claim amounts using two datasets, applying predictive modeling techniques such as Linear Regression, Decision Trees, and Naive Bayes.
