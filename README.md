@@ -3,10 +3,21 @@
 ## 1) Group Projects
 
 ### [Project 1: Machine Learning-Based Optimization of US Car Insurance Premiums](https://github.com/BeilinYe/DS_Car_Insurance_Premium_Setting)
-* Analyzed factors influencing car insurance claim amounts using two datasets, applying predictive modeling techniques such as Linear Regression, Decision Trees, and Naive Bayes.
-* Achieved an R² value of 96% for the more complex dataset, indicating strong predictive performance, particularly with the Decision Tree and Naive Bayes models.
-* Conducted feature importance analysis to identify key predictors, emphasizing the significance of vehicle information and accident details in predicting claims.
-* Provided actionable insights for insurance companies to optimize pricing strategies and improve risk management based on data-driven findings.
+**Project Motivation**  
+Analyzed factors affecting car insurance claim amounts to help insurers optimize pricing and manage risk.
+
+**Project Accomplishments**  
+- Developed predictive models (Linear Regression, Decision Trees, Naive Bayes) on two datasets.
+- Achieved an R² value of 96% using advanced techniques like Decision Trees and Naive Bayes.
+
+**Technical Skills**  
+- Python, Pandas, Scikit-learn  
+- Machine Learning models: Linear Regression, Decision Trees, Naive Bayes
+
+**Results**  
+- Identified key predictors (vehicle info, accident details) using feature importance analysis.
+- Delivered actionable insights for pricing strategy optimization.
+
 
 ### [AI-Powered SME Stock Prediction with LSTM, ESN, and Tree-Based Approaches](https://github.com/ExampleExample2)
 * 
