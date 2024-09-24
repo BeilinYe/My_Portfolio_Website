@@ -25,7 +25,7 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 **Project Accomplishments and Results**  
 - Conducted market needs assessment to identify user needs and translate them into engineering requirements.
 - Identified market needs for supporting investor decision-making.
-- Explored various machine learning models, including LSTM and tree-based approaches.
+- Successfully identified and evaluated five candidate models (LSTM, ESN and tree-based approaches) for SME stock price prediction, with Echo State Networks (ESN) emerging as the most effective solution. The ESN achieved an RMSE of 12.79 for 1-day predictions and maintained excellent efficiency, demonstrating superior performance compared to other models despite a decrease in accuracy for 10-day predictions.
 
 **Technical Skills**  
 - Python, Pandas, NumPy  
