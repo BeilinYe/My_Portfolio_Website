@@ -19,9 +19,25 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - Delivered actionable insights for pricing strategy optimization.
 
 
-### [AI-Powered SME Stock Prediction with LSTM, ESN, and Tree-Based Approaches](https://github.com/ExampleExample2)
-* 
-* 
+### [Project 2: AI-Powered SME Stock Prediction with LSTM, ESN, and Tree-Based Approaches](https://github.com/ExampleExample2)
+**Project Motivation**  
+- Addresses the lack of effective tools for investors in small to medium-sized U.S. companies.
+- Leverages AI and machine learning to provide reliable stock market projections.
+
+**Project Accomplishments**  
+- Conducted market needs assessment to identify user needs and translate them into engineering requirements.
+- 
+
+**Technical Skills**  
+- Python, Pandas, NumPy  
+- Machine Learning models: LSTM, Echo State Networks, Tree-Based Models
+- User-centered design process
+
+**Results**  
+- Identified market needs for supporting investor decision-making.
+- Explored various machine learning models, including LSTM and tree-based approaches.
+
+
 
 
 ## 2) Individual Projects
