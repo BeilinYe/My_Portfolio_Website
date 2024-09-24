@@ -6,11 +6,9 @@
 **Project Motivation**  
 Analyzed factors affecting car insurance claim amounts to help insurers optimize pricing and manage risk.
 
-**Project Accomplishments**  
+**Project Accomplishments and Results**  
 - Developed predictive models (Linear Regression, Decision Trees, Naive Bayes) on two datasets.
 - Achieved an R² value of 96% using advanced techniques like Decision Trees and Naive Bayes.
-
-**Results**  
 - Identified key predictors (vehicle info, accident details) using feature importance analysis.
 - Delivered actionable insights for pricing strategy optimization.
 
@@ -24,19 +22,15 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - Addresses the lack of effective tools for investors in small to medium-sized U.S. companies.
 - Leverages AI and machine learning to provide reliable stock market projections.
 
-**Project Accomplishments**  
+**Project Accomplishments and Results**  
 - Conducted market needs assessment to identify user needs and translate them into engineering requirements.
-- 
-
-**Results**  
 - Identified market needs for supporting investor decision-making.
 - Explored various machine learning models, including LSTM and tree-based approaches.
 
 **Technical Skills**  
 - Python, Pandas, NumPy  
-- Machine Learning models: LSTM, Echo State Networks, Tree-Based Models
+- Machine Learning models: LSTM, Echo State Networks, Tree-Based Models  
 - User-centered design process
-
 
 
 ## 2) Individual Projects
