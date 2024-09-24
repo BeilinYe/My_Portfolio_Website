@@ -10,13 +10,13 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - Developed predictive models (Linear Regression, Decision Trees, Naive Bayes) on two datasets.
 - Achieved an R² value of 96% using advanced techniques like Decision Trees and Naive Bayes.
 
-**Technical Skills**  
-- Python, Pandas, Scikit-learn  
-- Machine Learning models: Linear Regression, Decision Trees, Naive Bayes
-
 **Results**  
 - Identified key predictors (vehicle info, accident details) using feature importance analysis.
 - Delivered actionable insights for pricing strategy optimization.
+
+**Technical Skills**  
+- Python, Pandas, Scikit-learn  
+- Machine Learning models: Linear Regression, Decision Trees, Naive Bayes
 
 
 ### [Project 2: AI-Powered SME Stock Prediction with LSTM, ESN, and Tree-Based Approaches](https://github.com/ExampleExample2)
@@ -28,15 +28,14 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - Conducted market needs assessment to identify user needs and translate them into engineering requirements.
 - 
 
-**Technical Skills**  
-- Python, Pandas, NumPy  
-- Machine Learning models: LSTM, Echo State Networks, Tree-Based Models
-- User-centered design process
-
 **Results**  
 - Identified market needs for supporting investor decision-making.
 - Explored various machine learning models, including LSTM and tree-based approaches.
 
+**Technical Skills**  
+- Python, Pandas, NumPy  
+- Machine Learning models: LSTM, Echo State Networks, Tree-Based Models
+- User-centered design process
 
 
 
