@@ -33,7 +33,7 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - User-centered design process
 
 
-### [Project 3: AI-driven Image Restoration Using Optimization Techniques](to be updated)
+### [Project 3: AI-driven Image Restoration Using Optimization Techniques](https://github.com/BeilinYe/DS_Image_Restoration)
 
 **Project Motivation**
 This project explored the integration of Split Bregman Iteration and Anisotropic Total Variation (ATV) to improve image restoration tasks, focusing on denoising and extending it to inpainting.
