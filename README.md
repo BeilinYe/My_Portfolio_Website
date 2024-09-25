@@ -38,7 +38,8 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 
 ## 3) [Machine Learning Mini Projects - Breakdown by Model Type](https://github.com/BeilinYe/ML_mini_projects)
 
-[This project is ongoing.]
+**Project Status**: This project is currently under active development.
+
 
 ### Regression
 * Simple Linear Regression
@@ -47,7 +48,7 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 * Support Vector Regression
 
 ### Classification
-* [This section to be developed]
+**Project Status**: This section is currently under active development.
 
 
 
