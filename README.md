@@ -79,6 +79,5 @@ This project explored the integration of Split Bregman Iteration and Anisotropic
 * Email: beilinye.by@gmail.com  
 * LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/beilinyeby/)
 
-## 6) Sources & References
-* [This section to be developed]
+## 6) Sources & References  
 * Machine Learning Mini Projects: Referring to this online BootCamp [Machine Learning A-Z: AI, Python & R + ChatGPT Prize 2024](https://www.udemy.com/course/machinelearning/learn/lecture/35617946#questions)
