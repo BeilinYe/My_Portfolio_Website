@@ -33,6 +33,24 @@ Analyzed factors affecting car insurance claim amounts to help insurers optimize
 - User-centered design process
 
 
+### [Project 3: AI-driven Image Restoration Using Optimization Techniques](to be updated)
+
+**Project Motivation**
+This project explored the integration of Split Bregman Iteration and Anisotropic Total Variation (ATV) to improve image restoration tasks, focusing on denoising and extending it to inpainting.
+
+**Project Accomplishments and Results**
+- Implemented the Split Bregman-ATV and Isotropic Total Variation (ITV) methods for denoising noisy images.
+- Achieved high-quality restoration on images with low-to-moderate noise levels.
+- Extended the SB-ATV approach to inpainting, demonstrating its effectiveness on partially missing images.
+- Quantified results using Structural Similarity Index (SSIM) and relative error, confirming the superiority of ATV over ITV in most cases.
+
+**Technical Skills**
+- MATLAB
+- Image processing techniques: Denoising, Inpainting
+- Optimization methods: Split Bregman Iteration
+- Mathematical models: Anisotropic and Isotropic Total Variation
+
+
 ## 2) Individual Projects
 
 
