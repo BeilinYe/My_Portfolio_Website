@@ -52,6 +52,8 @@ This project explored the integration of Split Bregman Iteration and Anisotropic
 
 
 ## 2) Individual Projects
+### [Project 1: Frontend Practice Project using React and TypeScript]
+**Project Status**: This project is currently under active development.
 
 
 ## 3) [Machine Learning Mini Projects - Breakdown by Model Type](https://github.com/BeilinYe/ML_mini_projects)
